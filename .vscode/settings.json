@@ -1,0 +1,7 @@
+{
+    "python.venvPath": "~/.Vir_env/Web_App/bin/python3",
+    "python.pythonPath": "~/.Vir_env/Web_App/bin/python3",
+    "python.venvFolders": [
+        "~/.Vir_env/"
+    ]
+}

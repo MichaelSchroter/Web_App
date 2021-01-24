@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Web_App",
+			"path": "."
+		}
+	],
+	"settings": {
+		"json.schemas": [
+	
+		],
+		"python.venvPath": "~/.Vir_env/Web_App/bin/python3"
+	}
+}
